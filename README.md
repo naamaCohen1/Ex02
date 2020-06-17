@@ -1,8 +1,10 @@
-# Simple Console Memory Game1!
+# Simple Console Memory Game!
 
 Language: C#
 
-Clone the repository and execute the solution. Memory_game.sln
+Clone the repository, enter src directory to see the code.
+To play the game, click the exe file at bin directory.
+
 You can play with a friend or against the computer.
 When running the program:
 1. Type your name
